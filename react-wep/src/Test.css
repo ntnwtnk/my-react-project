@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Prompt:wght@400&display=swap');
+
+
+*{
+    box-sizing: border-box;
+    font-family: 'Prompt', sans-serif;
+}
+
+body{
+    background-image: linear-gradient(rgba(255,255,255,0.3), rgba(255,255,255,0.3)),url(./images/background.png);
+    background-position: center;
+    background-size:cover;
+    /* flex-direction: column; */
+    min-width: 100%;
+    min-height: 100vh;
+}
+
+.container{
+    margin: 30px auto;
+    width: 350px;
+}
+
+.horizontal-menu{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(43, 92, 123);
+    text-align: center;
+}
+
+/* .horizontal-menu li{
+    display: inline-block;
+
+}
+
+.horizontal-menu a{
+    color: #f7f7f7;
+    text-decoration: none;
+    padding: 16px;
+    display: block;
+} */

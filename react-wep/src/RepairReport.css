@@ -1,0 +1,10 @@
+.report-container{
+    background-color: rgb(237, 237, 237);
+    width: 900px;
+    height: 200px;
+    margin: auto;
+    margin-left: 190px;
+    padding: 30px;
+    font-size: 18px;
+    border-radius: 20px;
+}

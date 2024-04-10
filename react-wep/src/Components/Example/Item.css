@@ -1,0 +1,7 @@
+.expense{
+    border-right: 8px solid hwb(0 22% 31%);
+}
+
+.income{
+    border-right: 8px solid rgb(53, 122, 53);
+}
